@@ -258,6 +258,8 @@ Heimdal Security Blog - A blog about all things internet security (RSS feed: htt
 
 Help Net Security - Daily information security news with a focus on enterprise security. (RSS feed: https://www.helpnetsecurity.com/feed)
 
+Infostealers by Hudson Rock -  The all-around hub with news and publications about Infostealers (RSS feed: https://www.infostealers.com/learn-info-stealers/feed)
+
 IACR News - (RSS feed: https://iacr.org/news/rss)
 
 IEEE Spectrum - IEEE Spectrum (RSS feed: https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss)
